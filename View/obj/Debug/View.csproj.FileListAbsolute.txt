@@ -1,0 +1,16 @@
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\View.exe.config
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\View.exe
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\View.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Controllers.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Model.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Controllers.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Model.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.FormLogin.resources
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.exe
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\obj\Debug\View.FormPrincipal.resources
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Common.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\View\bin\Debug\Common.pdb

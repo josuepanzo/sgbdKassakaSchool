@@ -1,0 +1,5 @@
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Common\bin\Debug\Common.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Common\bin\Debug\Common.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Common\obj\Debug\Common.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Common\obj\Debug\Common.pdb

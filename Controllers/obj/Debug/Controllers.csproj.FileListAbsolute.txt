@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Controllers.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Model.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Model.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\obj\Debug\Controllers.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Common.dll
+C:\Users\Joshua\Documents\RepositoryDesktop\SystemKassakaSchool\Controllers\bin\Debug\Common.pdb
